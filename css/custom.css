@@ -30,15 +30,39 @@
 }
 
 .btn-red-primary:hover {
-<<<<<<< HEAD
-    background-color: #c73140ce;
-    color: #fff;
-}
-=======
   background-color: #c73140ce;
   color: #fff;
 }
 
+.container.text-center.mt-5 {
+  margin-top: 50px;
+}
+
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.step {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+p {
+  color: gray;
+  font-size: 14px;
+}
 /* Bintang Start */
 .row {
   display: flex;
@@ -57,4 +81,3 @@
   margin: 0 auto;
 }
 /* Bintang End */
->>>>>>> b1d238794df73ff3f0e53524b6d571ffe8ca5f56
