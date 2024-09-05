@@ -30,16 +30,10 @@
 }
 
 .btn-red-primary:hover {
-<<<<<<< HEAD
-    background-color: #c73140ce;
-    color: #fff;
-}
-=======
   background-color: #c73140ce;
   color: #fff;
 }
 
-<<<<<<< HEAD
 .container.text-center.mt-5 {
   margin-top: 50px;
 }
@@ -69,7 +63,6 @@ p {
   color: gray;
   font-size: 14px;
 }
-=======
 /* Bintang Start */
 .row {
   display: flex;
@@ -88,4 +81,3 @@ p {
   margin: 0 auto;
 }
 /* Bintang End */
->>>>>>> b1d238794df73ff3f0e53524b6d571ffe8ca5f56
