@@ -30,6 +30,11 @@
 }
 
 .btn-red-primary:hover {
+<<<<<<< HEAD
+    background-color: #c73140ce;
+    color: #fff;
+}
+=======
   background-color: #c73140ce;
   color: #fff;
 }
