@@ -34,6 +34,7 @@
   color: #fff;
 }
 
+<<<<<<< HEAD
 .container.text-center.mt-5 {
   margin-top: 50px;
 }
@@ -63,3 +64,23 @@ p {
   color: gray;
   font-size: 14px;
 }
+=======
+/* Bintang Start */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col {
+  flex: 1;
+  text-align: center;
+}
+
+.img-logo {
+  width: 80px;
+  height: auto;
+  margin: 0 auto;
+}
+/* Bintang End */
+>>>>>>> b1d238794df73ff3f0e53524b6d571ffe8ca5f56
