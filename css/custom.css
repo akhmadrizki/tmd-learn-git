@@ -1,35 +1,60 @@
 .banner {
-    width: 100%;
-    height: 100vh;
+  width: 100%;
+  height: 100vh;
 }
 
 .background {
-    background-color: bisque;
+  background-color: bisque;
 }
 
 .banner-title {
-    font-size: 56px;
+  font-size: 56px;
 }
 
 .banner-cover-img {
-    width: 100%;
-    height: 450px;
-    background-color: aqua;
+  width: 100%;
+  height: 450px;
+  background-color: aqua;
 }
 
 .search-box {
-    padding: 18px 12px;
-    background-color: white;
-    border-radius: 12px;
-    top: -50px;
+  padding: 18px 12px;
+  background-color: white;
+  border-radius: 12px;
+  top: -50px;
 }
 
 .btn-red-primary {
-    background-color: #c73141;
-    color: #fff;
+  background-color: #c73141;
+  color: #fff;
 }
 
 .btn-red-primary:hover {
+<<<<<<< HEAD
     background-color: #c73140ce;
     color: #fff;
 }
+=======
+  background-color: #c73140ce;
+  color: #fff;
+}
+
+/* Bintang Start */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col {
+  flex: 1;
+  text-align: center;
+}
+
+.img-logo {
+  width: 80px;
+  height: auto;
+  margin: 0 auto;
+}
+/* Bintang End */
+>>>>>>> b1d238794df73ff3f0e53524b6d571ffe8ca5f56
