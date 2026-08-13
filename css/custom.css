@@ -65,16 +65,16 @@ p {
 }
 
 /* Bintang Start */
-.row {
+/* .row {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-}
+} */
 
-.col {
+/* .col {
   flex: 1;
   text-align: center;
-}
+} */
 
 .img-logo {
   width: 80px;
